@@ -116,5 +116,8 @@
   "markdown.extension.toc.updateOnSave": false,
   "cSpell.words": [
     "pset"
-  ]
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  }
 }
