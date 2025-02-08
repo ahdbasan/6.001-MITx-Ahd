@@ -1,4 +1,4 @@
-This repository contains workshops, exercises and resources for learning Python
+This repository contains Ahd exercises and resources from learning Python
 at MITx 6.001 coursework
 
 ## Running Scripts in this Repository
