@@ -1,7 +1,5 @@
-# ET6: Programming With Python
-
 This repository contains workshops, exercises and resources for learning Python
-at Emerging Talent.
+at MITx 6.001 coursework
 
 ## Running Scripts in this Repository
 
