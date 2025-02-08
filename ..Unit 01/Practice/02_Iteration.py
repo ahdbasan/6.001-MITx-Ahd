@@ -16,11 +16,16 @@ Created on Wed Jan 29 23:36:38 2025
 
 # print("Hello!")
 # n = 10
-# while n > 0:
+# while n >= 0:
 #     print(n)
 #     n -= 2
     
-    
+
+# n = 0
+# while n <= 10:
+#     print(n)
+#     n += 2
+        
 ###################
 # T###################
 # Tou can uncomment each of these examples
@@ -574,19 +579,19 @@ Created on Wed Jan 29 23:36:38 2025
 # Valid vowels are: 'a', 'e', 'i', 'o', and 'u'. For example, if s = 'azcbobobegghakl', 
 # your program should print:Number of vowels: 5
 
-s = 'azcbobobegghakl'
-vowels = ["a", "e", "i", "o", "u"]
-modifiedSentence = ""
-for char in s:
-    if char in vowels:
-      modifiedSentence += char
+# s = 'azcbobobegghakl'
+# vowels = ["a", "e", "i", "o", "u"]
+# modifiedSentence = ""
+# for char in s:
+#     if char in vowels:
+#       modifiedSentence += char
 
-# print(len(modifiedSentence))
-# slength = len(modifiedSentence)
-# last = f " Number of vowels: {slength)} "
-# print (last)
+# # print(len(modifiedSentence))
+# # slength = len(modifiedSentence)
+# # last = f " Number of vowels: {slength)} "
+# # print (last)
 
-print(f'Number of vowels: {len(modifiedSentence)}')
+# print(f'Number of vowels: {len(modifiedSentence)}')
 
 
 # total = 0
